@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjragon21
 - 👀 I’m interested in coding web applications
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, C# and PHP
 - 📫 You can reach me at mjragon21@gmail.com
 
 <!---

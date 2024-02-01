@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael James Angelo Ragon</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate developer from Philippines</h3>
 
 - 🌱 I’m currently learning **React Native, C# and Vue**
 

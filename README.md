@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael James Angelo Ragon</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 
-- 🌱 I’m currently learning **React Native, C# and Vue**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-react-alpha-swart.vercel.app/](https://portfolio-react-alpha-swart.vercel.app/)
 
 - 📫 How to reach me **mjragon21@gmail.com**
